@@ -4,7 +4,7 @@
 Make a dashboard using Rotten Tomatoes dataset that contains data on Hollywood's Most Profitable Stories.
 
 ### Data Set
-* Rotten Tomatoes dataset (original source found at Tableau Public resources > Sample Data > Hollywood's Most Profitable Stories) (.csv).
+* Rotten Tomatoes dataset ([original source](https://public.tableau.com/s/sites/default/files/media/HollywoodsMostProfitableStories.csv) found at [Tableau Public resources](https://public.tableau.com/en-us/s/resources) > Sample Data > Hollywood's Most Profitable Stories) (.csv)
 
 ### Highlights
 - The Animation Movie Genre has the highest average rating of 80.33.
