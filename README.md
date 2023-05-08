@@ -1,16 +1,16 @@
 # ROTTEN-TOMATOES-Insights-Project
 
 ### Business Task
-Make a dashboard using Rotten Tomatoes dataset that contains data on Hollywood's Most Profitable Stories.
+Use a Rotten Tomatoes dataset of Hollywood's Most Profitable Stories to create a dashboard.
 
 ### Data Set
 * Rotten Tomatoes dataset ([original source](https://public.tableau.com/s/sites/default/files/media/HollywoodsMostProfitableStories.csv) found at [Tableau Public resources](https://public.tableau.com/en-us/s/resources) > Sample Data > Hollywood's Most Profitable Stories) (.csv)
 
 ### Highlights
-- The Animation Movie Genre has the highest average rating of 80.33.
-- The highest rated movie is "WALL-E" with a rating of 96.
-- From the scatterplot we can see that there is no correlation between Worldwide Gross and Tomatometer Scores.
-- the Audiance score seems to always be higher than the Tomatometer score, with a significant difference in the case of the Action genre, with the expection of the Animation genre where the Tomatometer score is higher than the Audiance score.
+- The animation genre has the highest average rating, at 80.33.
+- The highest-rated movie is "WALL-E" with a rating of 96.
+- From the scatterplot we can see that there is no correlation between worldwide gross and Tomatometer score.
+- the audience score seems to be always higher than the Tomatometer score, with a significant difference in the action genre, the exception being the animation genre where the Tomatometer score is higher than the audience score.
 
 ### Posted in
 - Tableau Public: [Link](https://public.tableau.com/app/profile/mohamed.rafik.sebia/viz/RottenTomatoesInsightsProject/GoodDashboard)
